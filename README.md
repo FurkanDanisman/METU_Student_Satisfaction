@@ -9,7 +9,7 @@ The research was conducted to identify the factors that influence college studen
 - [Code](#Code)
 
 ## Research Paper
-You may find our research paper that is published on the **International Study of Social Science** by clicking [here](https://furkandanisman.github.io/METU_Student_Satisfaction/Research-Paper/METU-Student-Satisfaction-Paper.html). 
+You may find our research paper that is published on the **International Journal of Social Science** by clicking [METU Student Research Paper](https://furkandanisman.github.io/METU_Student_Satisfaction/Research-Paper/METU-Student-Satisfaction-Paper.html). 
 
 ## Survey
 The survey is conducted by METU Statistics student team. We had around **80%** response rate, some of the participants took the survey face-to-face, while the rest of them did online. Survey took approximately **15 minutes**. All the responses collected as anonymously. You may reach our survey through clicking the following link:
