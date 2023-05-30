@@ -11,14 +11,14 @@ The research was conducted to identify the factors that influence college studen
 - [Code](#Code)
 
 ## Research Paper
-You may find our research paper that is published on the **International Journal of Social Science** by clicking [METU Student Research Paper](https://furkandanisman.github.io/METU_Student_Satisfaction/Research-Paper/METU-Student-Satisfaction-Paper.html). 
+You may find our research paper that is published on the **International Journal of Social Science** by clicking [METU Student Research Paper](https://furkandanisman.github.io/METU_Student_Satisfaction/html-files/METU-Student-Satisfaction-Paper.html). 
 
 ## Survey
 The survey is conducted by METU Statistics student team. We had around **80%** response rate, some of the participants took the survey face-to-face, while the rest of them did online. Survey took approximately **15 minutes**. All the responses collected as anonymously. You may reach our survey through clicking the following link:
-[Student Satisfaction Survey](https://furkandanisman.github.io/METU_Student_Satisfaction/Research-Paper/METU-Student-Satisfaction-Paper.html)
+[Student Satisfaction Survey](https://furkandanisman.github.io/METU_Student_Satisfaction/html-files/METU-Student-Satisfaction-Survey.html)
 
 ## Code
-Analysis of the study has done only through **R Programming**. We used several libraries which helped us establish data visualization, data cleaning, machine learning, and countless analysis. Code is highly explicit to make the process clear and smooth. You may find the code by clicking [R analysis](https://furkandanisman.github.io/METU_Student_Satisfaction/Research-Paper/METU-Student-Satisfaction-Paper.html)
+Analysis of the study has done only through **R Programming**. We used several libraries which helped us establish data visualization, data cleaning, machine learning, and countless analysis. Code is highly explicit to make the process clear and smooth. You may find the code by clicking [R analysis](https://github.com/FurkanDanisman/METU_Student_Satisfaction/blob/main/Code/METU-Student-Satisfaction-Code.R)
 
 
 
