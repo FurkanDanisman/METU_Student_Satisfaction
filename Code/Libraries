@@ -1,3 +1,4 @@
+# Libraries 
 library(ggplot2)
 library(ltm)
 library(dplyr)
@@ -12,3 +13,20 @@ library(randomForest)
 library(caTools)
 library(corrplot)
 library(caret)
+
+# Packages
+install.packages
+install.packages(ggplot2)
+install.packages(ltm)
+install.packages(dplyr)
+install.packages(magrittr)
+install.packages(survey)
+install.packages(SDaA)
+install.packages(tidyverse)
+install.packages(broom)
+install.packages(tidyr)
+install.packages(MASS)
+install.packages(randomForest)
+install.packages(caTools)
+install.packages(corrplot)
+install.packages(caret)
