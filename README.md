@@ -1,5 +1,7 @@
 # METU STUDENTS' COLLEGE LIFE SATISFACTION
 
+Research with statistical analysis on R to understand and find a relationship of the factors that effect **METU students' college life satisfaction**.
+
 ## Table of Contents
 - [Abstract](#Abstract)
 - [Research Paper](#Research-Paper)
