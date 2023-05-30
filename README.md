@@ -17,10 +17,10 @@ You may find our research paper that is published in the **International Journal
 
 ## Survey
 The survey is conducted by the METU Statistics students. We had around **80%** response rate; some of the participants took the survey face-to-face, while the rest of them did it online. The survey took approximately **15 minutes**. All the responses were collected anonymously. You may reach our survey by clicking the following link:
-[METU Student Satisfaction Survey](https://furkandanisman.github.io/METU_Student_Satisfaction/HTML/METU-Student-Satisfaction-Survey.html)
+[METU Student Satisfaction Survey](https://furkandanisman.github.io/METU_Student_Satisfaction/HTML/METU-Student-Satisfaction-Survey.html).
 
 ## Code
-Analysis of the study has been done only through **R Programming**. We used several libraries which helped us establish data visualization, data cleaning, machine learning, and countless analysis. Code is highly explicit to make the process clear and smooth. You may find the code by clicking [R analysis](https://github.com/FurkanDanisman/METU_Student_Satisfaction/blob/main/Code/METU-Student-Satisfaction-Code.R)
+Analysis of the study has been done only through **R Programming**. We used several libraries which helped us establish data visualization, data cleaning, machine learning, and countless analysis. Code is highly explicit to make the process clear and smooth. You may find the code by clicking [R analysis](https://github.com/FurkanDanisman/METU_Student_Satisfaction/blob/main/Code/METU-Student-Satisfaction-Code.R).
 
 ## References
 
